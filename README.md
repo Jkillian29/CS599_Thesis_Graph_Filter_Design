@@ -1,1 +1,2 @@
-# CS599_Thesis_Graph_Filter_Design
+# CS599 Thesis Graph Filter Design
+Contains all the code associated with my thesis on graph filter design
